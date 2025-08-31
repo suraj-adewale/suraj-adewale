@@ -62,10 +62,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 663 tasks so far           
 <!-- TODO-IST:END -->
 
-
+<!--
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suraj-adewale&show_icons=true&theme=gotham" alt="suraj-adewale" />
-
+ -->
 
 
